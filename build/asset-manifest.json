@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/test-frontend-mindbox/static/css/main.0477aade.css",
+    "main.js": "/test-frontend-mindbox/static/js/main.10a338e7.js",
+    "static/media/Inter-Medium.woff": "/test-frontend-mindbox/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
+    "static/media/Inter-Black.woff": "/test-frontend-mindbox/static/media/Inter-Black.c6938660eec019fefd68.woff",
+    "static/media/Inter-Regular.woff": "/test-frontend-mindbox/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/Inter-Medium.woff2": "/test-frontend-mindbox/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
+    "static/media/Inter-Black.woff2": "/test-frontend-mindbox/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
+    "static/media/Inter-Regular.woff2": "/test-frontend-mindbox/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/roboto-italick.woff2": "/test-frontend-mindbox/static/media/roboto-italick.993f3edc48aa29728dff.woff2",
+    "index.html": "/test-frontend-mindbox/index.html",
+    "main.0477aade.css.map": "/test-frontend-mindbox/static/css/main.0477aade.css.map",
+    "main.10a338e7.js.map": "/test-frontend-mindbox/static/js/main.10a338e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0477aade.css",
+    "static/js/main.10a338e7.js"
+  ]
+}
